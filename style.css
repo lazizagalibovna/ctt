@@ -1,0 +1,49 @@
+div {
+    text-align: center;
+    margin-top: 200px;
+    border: 2px solid rgba(255, 255, 255, 0.273);
+    width: 150px;
+    padding: 30px 70px;
+    margin-left: 750px;
+    background-color: rgba(255, 255, 255, 0.787);
+    border-radius: 20px;
+}
+
+input {
+    margin-top: 5px;
+    padding: 9px 20px;
+    border-radius: 5px;
+    background-color: rgb(18, 36, 70);
+    color: rgb(240, 244, 250);
+    margin-left: -20px;
+
+}
+
+a {
+    padding: 20px 70px;
+    border-radius: 20px;
+    margin-left: 800px;
+    margin-top: -40px;
+    color: rgba(255, 255, 255, 0.146);
+    color: rgb(101, 100, 100);
+    background-color: rgb(254, 254, 255);
+    text-decoration: none;
+}
+
+body {
+    background: hsla(205, 34%, 40%, 1);
+    background: linear-gradient(90deg, hsla(205, 34%, 40%, 1) 0%, hsla(347, 52%, 36%, 1) 100%);
+    background: -moz-linear-gradient(90deg, hsla(205, 34%, 40%, 1) 0%, hsla(347, 52%, 36%, 1) 100%);
+    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr="#436C89", endColorstr="#8B2C40", GradientType=1);
+}
+
+img {
+    margin-bottom: -240px;
+    margin-left: 855px;
+}
+
+a:hover {
+    background-color: rgb(29, 29, 59);
+    color: rgba(255, 255, 255, 0.891);
+    font-family: fantasy;
+}

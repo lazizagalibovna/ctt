@@ -1,0 +1,80 @@
+.logo {
+    text-align: center;
+    margin-top: 15px;
+}
+
+
+.items {
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: white;
+    width: 600px;
+    padding: 0px 50px;
+    border-radius: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    
+}
+
+.items img {
+    border-radius: 10px;
+}
+.profil_photo {
+    display: flex;
+    align-items: center;
+    gap: 40px;
+    background-color: white;
+    border-radius: 20px;
+    padding: 10px 200px 30px 20px;
+}
+.profil_photo img {
+    border-radius: 50%;
+}
+
+.statistics {
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 50px;
+}
+
+.buttons {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.buttons button{
+    padding: 10px 35px;
+    border-radius: 10px;
+    border: none;
+    color: #fff;
+}
+
+.red {
+    background-color: black;
+
+
+}
+
+.warning {
+    background-color: rgb(86, 96, 100);
+}
+
+.success {
+    background-color: rgb(74, 122, 148);
+}
+
+
+body {
+    margin: 0;
+  background-color: linear-gradient(#141e30, #2a6c56);
+}
+
+.statistic {
+    border-radius: 20px;
+}
